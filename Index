@@ -1,0 +1,42 @@
+<html>
+    <head><link rel="stylesheet" href="style.css"/></head>
+            <title>CodeCombat</title>
+            <main>
+            <header>CodeCombat - Coding games to learn Python and Java</header>
+            
+            <div class="ForReger"><img src="https://codecombat.com/images/pages/home-v3/carousel/1.webp"/></div>
+            <p><b>CodeCombat</b> is very good game for chill out at home</p>
+            <table style="border:4px solid black">
+                <tr>
+                    <td>Teachers </td>
+                    <td>Parents</td>
+                    <td>Сhildren</td>
+                </tr>
+                <tr>
+                    <td>The Most Effective Computer Science Solution for Schools</td>
+                    <td>Develop your child's passion for computer science and the potential for success with our flexible program and personalized instruction</td>
+                    <td>Play all games</td>
+                </tr>
+            </table>
+        <p><b>CodeCombat</b>  is an educational video game for learning software programming concepts and languages. This game is recommended for students ages 9–16.</p>
+        <p align="left"><b>CodeCombat </b>works directly with schools and districts, as well as offering self-paced learners a monthly paid subscription that gives access to additional game content.</p>
+        <div class="btn-contain">
+            <button class="btn"><a href="https://codecombat.com/">Visit site</a></a></button>
+            <div class="btn-particles">
+                </div>
+                <p>Why you need to buy this game? Personalized instructions and premium access with a single subscription</p>
+                <ul>
+                    <li>The open world</li>
+                    <li>The plot of the game</li>
+	      <li>Develops logic</li>
+	      <li>Teaches programming</li>
+                    <li>Popular</li>
+                    
+                    
+                </ul>
+             </main>
+        <footer>
+            <p><i>The project was prepared by Ivan Osipov, Algorithmics, 2025г</i></p>
+        </footer>
+    </body>
+</html>
